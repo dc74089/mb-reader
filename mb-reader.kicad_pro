@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "rfid-attendance.kicad_pro",
+    "filename": "mb-reader.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -538,8 +538,8 @@
   "schematic": {
     "annotate_start_num": 0,
     "annotation": {
-      "method": 0,
-      "sort_order": 0
+      "method": 1,
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -644,7 +644,7 @@
           "group_by": false,
           "label": "PROD_ID",
           "name": "PROD_ID",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
@@ -690,18 +690,27 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "rfid-attendance.kicad_sch",
-        "name": "rfid-attendance",
+        "filename": "mb-reader.kicad_sch",
+        "name": "mb-reader",
         "uuid": "7d4a61cb-ae94-4428-8eb5-2a7346d0e85e"
+      },
+      {
+        "filename": "leds.kicad_sch",
+        "name": "leds",
+        "uuid": "9a28d067-0afb-4337-b82d-7d27f3b65cf7"
       }
     ],
-    "used_designators": "#PWR1-8,C1,D1,J1,P1,R1-2,U1-2",
+    "used_designators": "#PWR1-30,#PWR101-124,#PWR201-212,C1-7,C101-107,C201-206,D1-37,D101,D201-264,J1,J101,P1,R1-9,R101-109,SW1-2,SW101-102,U1-4,U101-104",
     "variants": []
   },
   "sheets": [
     [
       "7d4a61cb-ae94-4428-8eb5-2a7346d0e85e",
-      "rfid-attendance"
+      "mb-reader"
+    ],
+    [
+      "9a28d067-0afb-4337-b82d-7d27f3b65cf7",
+      "leds"
     ]
   ],
   "text_variables": {},
