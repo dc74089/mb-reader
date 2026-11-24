@@ -693,22 +693,40 @@
 		(uuid "0152d185-59e6-4903-8eca-b2cb57233f69")
 	)
 	(junction
+		(at 58.42 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0345b8d9-2a78-4347-9237-fa75287a1186")
+	)
+	(junction
+		(at 104.14 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "038f79a0-df7d-48af-bd08-0a446410161f")
+	)
+	(junction
 		(at 53.34 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04d8eb06-7cfe-48d6-a91b-f2a28c241993")
 	)
 	(junction
-		(at 30.48 39.37)
+		(at 83.82 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "08f7611a-9fed-4fa6-81e3-fa8d084172e2")
+		(uuid "07ea3006-48bf-465f-b1f4-5f3244c138e4")
 	)
 	(junction
 		(at 160.02 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a603720-2fbc-4ceb-b0fc-c297dea79c76")
+	)
+	(junction
+		(at 119.38 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a72e6a5-0138-4a06-b52e-7dcfeb1402bb")
 	)
 	(junction
 		(at 53.34 67.31)
@@ -729,10 +747,34 @@
 		(uuid "15e9e6cc-97c9-4d6d-8112-559b80305d98")
 	)
 	(junction
+		(at 124.46 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16dd5e72-77f2-43cc-a273-51f3d59f6822")
+	)
+	(junction
+		(at 129.54 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18eaf683-de94-42a4-9ce3-b9e7cc8a9dab")
+	)
+	(junction
+		(at 83.82 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1bc93d11-6810-4934-928d-595a27ab9704")
+	)
+	(junction
 		(at 142.24 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d90ed16-781b-4a4d-bdfb-56fcbef9c928")
+	)
+	(junction
+		(at 58.42 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1dd89d9c-8e83-4bf8-bfab-f1fdfbe85c89")
 	)
 	(junction
 		(at 142.24 67.31)
@@ -741,10 +783,46 @@
 		(uuid "1ef39c4d-e575-4aaf-8af0-0fc31774ebd1")
 	)
 	(junction
+		(at 43.18 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23f2603d-09be-4b5b-919f-a3ffc0b1ec66")
+	)
+	(junction
+		(at 48.26 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "246e296e-f467-4441-9937-04f3edc936db")
+	)
+	(junction
+		(at 114.3 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "254a507d-adc6-4ca6-9a32-78d6662419d7")
+	)
+	(junction
+		(at 109.22 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "25fdfac8-3893-4a3d-ab40-ecd6d83e4273")
+	)
+	(junction
 		(at 124.46 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26e5ae9f-3071-4707-b368-a477d52186e0")
+	)
+	(junction
+		(at 144.78 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d4348e5-7ed7-489e-bbf5-2dcf4231f174")
+	)
+	(junction
+		(at 144.78 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d79c85e-49c8-41c7-8af8-dc3bbb252b9e")
 	)
 	(junction
 		(at 106.68 80.01)
@@ -753,10 +831,34 @@
 		(uuid "2daad820-1415-44ea-8aed-b38af28600cc")
 	)
 	(junction
+		(at 109.22 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2eafcd91-4fd5-410e-bd33-bbbf1e11cfb8")
+	)
+	(junction
+		(at 78.74 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f717021-23e0-4b03-af9c-8d9a8d4524d8")
+	)
+	(junction
 		(at 160.02 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30063aa5-f8a2-450b-8c2c-07ac2c26b66e")
+	)
+	(junction
+		(at 38.1 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32189138-03af-4a7e-a72b-f8ea574b145b")
+	)
+	(junction
+		(at 88.9 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3315b265-58e9-45ca-b6f9-c109de80d45c")
 	)
 	(junction
 		(at 142.24 80.01)
@@ -765,16 +867,88 @@
 		(uuid "342ea161-b3a5-4048-bae9-9ae0393d88ec")
 	)
 	(junction
+		(at 139.7 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "379fd427-4181-470a-967e-b28c5335bd7b")
+	)
+	(junction
+		(at 88.9 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37a9af4d-b8be-41af-af15-49ebd9405e77")
+	)
+	(junction
+		(at 73.66 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "38dff07b-43f2-4ad4-b820-dd370fc17cf9")
+	)
+	(junction
 		(at 88.9 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3ac2594e-e6c2-4874-88f6-ca2b0987ab20")
 	)
 	(junction
+		(at 99.06 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cd0c9d6-eeb9-4b52-be14-672b9e1ac5ba")
+	)
+	(junction
+		(at 38.1 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ce95e74-59d2-4565-b5fb-c2484dd15fbf")
+	)
+	(junction
+		(at 134.62 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e14d776-85cd-46b7-a7fa-22df64c10fb0")
+	)
+	(junction
+		(at 104.14 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e4175a1-4949-466c-868b-3c7f41827e5e")
+	)
+	(junction
+		(at 63.5 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f37f01f-ab86-48b2-8a02-3f7b4e78b581")
+	)
+	(junction
+		(at 139.7 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f6f2aca-1fb1-450c-b2f3-18184b31358e")
+	)
+	(junction
+		(at 139.7 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4119f93b-ef51-4f11-9e8e-69441fad9a2d")
+	)
+	(junction
 		(at 231.14 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "42334af1-0410-4183-892c-a3ac5ae632e8")
+	)
+	(junction
+		(at 93.98 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "456f5c79-88b7-447a-944a-dc909215378d")
+	)
+	(junction
+		(at 129.54 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46d17ef1-ef94-4742-a07b-95e6ab57df39")
 	)
 	(junction
 		(at 142.24 39.37)
@@ -795,10 +969,28 @@
 		(uuid "49e8806a-19b0-42c2-a835-2d79104f11f1")
 	)
 	(junction
+		(at 78.74 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ba3e4e2-a75c-490d-b343-b37f27d302d4")
+	)
+	(junction
 		(at 177.8 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4dfa0576-315e-4378-bbd1-ffe99f2cb740")
+	)
+	(junction
+		(at 124.46 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4e2a4125-1bc5-46a2-8f02-e4d17830981a")
+	)
+	(junction
+		(at 99.06 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50a000f9-1461-48d4-92da-770a6d3a1e7d")
 	)
 	(junction
 		(at 124.46 39.37)
@@ -811,12 +1003,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "510f33f1-d770-4810-ba02-36a9a6e7c37a")
-	)
-	(junction
-		(at 30.48 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "56e2edae-3ebb-4508-a3b5-d1caab13fc75")
 	)
 	(junction
 		(at 124.46 95.25)
@@ -837,10 +1023,46 @@
 		(uuid "585e2642-848d-4616-90a3-645b0ab32847")
 	)
 	(junction
+		(at 48.26 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59c13967-3d96-4675-abfb-0dfacaa29093")
+	)
+	(junction
+		(at 48.26 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c2aeb95-2563-40ba-b4f9-25584ae1f634")
+	)
+	(junction
+		(at 134.62 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d1e8a6f-5adc-430d-a252-dbd2278c9a8d")
+	)
+	(junction
+		(at 149.86 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e92aa45-b981-40b2-a27e-733b829929cc")
+	)
+	(junction
 		(at 177.8 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f833c4d-f927-4d89-9e63-0e764e4b2abe")
+	)
+	(junction
+		(at 73.66 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "601be9a7-36f7-4778-996d-252271a991fc")
+	)
+	(junction
+		(at 114.3 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60cf54ec-03b4-4877-b23e-2c0cb7112a6b")
 	)
 	(junction
 		(at 88.9 95.25)
@@ -853,6 +1075,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6288993b-ae64-458d-a240-9b48659ff34d")
+	)
+	(junction
+		(at 88.9 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "633dd47a-73c8-4dfd-a790-3b3c4dd0aaa8")
 	)
 	(junction
 		(at 142.24 24.13)
@@ -891,6 +1119,12 @@
 		(uuid "6d6d72fc-b030-4f48-8cc8-30c3ec6de376")
 	)
 	(junction
+		(at 83.82 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6dcea486-7ba0-4c54-af16-c7bfb9a0f88a")
+	)
+	(junction
 		(at 88.9 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -907,12 +1141,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e51f496-9f49-41ab-b6c2-807750c32b18")
-	)
-	(junction
-		(at 30.48 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6e99d50c-a6d3-42ab-abcb-5df4e29d92ed")
 	)
 	(junction
 		(at 195.58 127)
@@ -951,16 +1179,58 @@
 		(uuid "7839d661-7d31-4e3a-a9fc-0212c0eb0529")
 	)
 	(junction
+		(at 27.94 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7861bf83-53a8-4166-9382-9934277cb8b2")
+	)
+	(junction
+		(at 119.38 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78f5f20c-df4b-4c9d-a912-b7ee6cfeb5dc")
+	)
+	(junction
 		(at 160.02 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "79316145-fb07-4019-b1c4-afc6094f3a8d")
 	)
 	(junction
+		(at 63.5 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a74742c-71ac-477d-9aa6-a316b26b67d5")
+	)
+	(junction
+		(at 78.74 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7da552a1-17da-4be0-8f17-7a4bf82b04ba")
+	)
+	(junction
+		(at 134.62 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f37c027-885d-4486-824a-a670f7b8b0c6")
+	)
+	(junction
 		(at 124.46 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80ad668f-c576-4f86-8e92-3d2fbec02f82")
+	)
+	(junction
+		(at 93.98 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80b22466-7044-4d91-a2b7-f258d5323d7f")
+	)
+	(junction
+		(at 38.1 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "811bda61-e76b-4551-91ff-88ebda26c005")
 	)
 	(junction
 		(at 53.34 95.25)
@@ -975,6 +1245,30 @@
 		(uuid "8689fbdb-f627-47ba-bbd3-0f44f48be589")
 	)
 	(junction
+		(at 33.02 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88ab99c5-568f-451c-9a56-54752b4478c6")
+	)
+	(junction
+		(at 144.78 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88be9608-cc71-4f05-8d0a-3ca27f06f331")
+	)
+	(junction
+		(at 43.18 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "89aef226-ab3a-4aa6-8210-b9be90c4c40b")
+	)
+	(junction
+		(at 119.38 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a701637-bf71-440b-b6d4-9bb7b539c28c")
+	)
+	(junction
 		(at 88.9 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -987,10 +1281,34 @@
 		(uuid "8c3557d5-ae7d-4b99-af4b-60871b952fbc")
 	)
 	(junction
+		(at 38.1 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d433d11-1f7f-483d-a333-f9ed355b08bb")
+	)
+	(junction
+		(at 43.18 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e6627e2-e781-4979-b355-7c959138b819")
+	)
+	(junction
+		(at 93.98 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "917d0035-7c51-4624-a9e3-38115e4b52e5")
+	)
+	(junction
 		(at 88.9 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9181fa0f-32d1-4f4b-b253-1876d9f64ba6")
+	)
+	(junction
+		(at 134.62 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "946bf626-0fb3-4236-b163-5218ea6bb815")
 	)
 	(junction
 		(at 124.46 142.24)
@@ -1005,10 +1323,22 @@
 		(uuid "95fdefe1-fc15-4028-9499-5599cb038084")
 	)
 	(junction
+		(at 58.42 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "962f8c97-3cc9-4d88-a1a9-419d5bddefb6")
+	)
+	(junction
 		(at 142.24 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "965910fa-e0e6-4c8e-b105-b5e60b2576a0")
+	)
+	(junction
+		(at 104.14 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96bdb713-4975-4bd9-8f90-09103a9af92b")
 	)
 	(junction
 		(at 71.12 67.31)
@@ -1029,10 +1359,16 @@
 		(uuid "991d9124-d728-4ac7-9467-13c64f8871dd")
 	)
 	(junction
-		(at 30.48 95.25)
+		(at 68.58 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9bd88378-b541-423e-8ed1-8a13dbf4b3ef")
+		(uuid "9ac4123a-b8e7-4547-81bb-e93c58a2493e")
+	)
+	(junction
+		(at 109.22 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9aee5e3c-c0ab-4fe6-be26-1eab835bfa1d")
 	)
 	(junction
 		(at 142.24 95.25)
@@ -1041,10 +1377,46 @@
 		(uuid "9ebe71a1-95de-4094-9371-24abea56e835")
 	)
 	(junction
+		(at 58.42 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a02ba6c8-8b4c-483a-9df5-446048d6b3a0")
+	)
+	(junction
 		(at 177.8 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1316f7b-cb04-42a9-8df6-29be1125dba7")
+	)
+	(junction
+		(at 68.58 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1ae330a-ead6-4133-a4d9-a1f552523737")
+	)
+	(junction
+		(at 27.94 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a74d2051-dd71-43b0-a0e4-da701af0b4c7")
+	)
+	(junction
+		(at 149.86 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7997858-78df-494a-8178-0c9939a6a9d6")
+	)
+	(junction
+		(at 99.06 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae363699-1b9f-4866-a34f-d87dff5b922f")
+	)
+	(junction
+		(at 124.46 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae83f4cf-aca8-4d46-95a8-bb61c5f70a52")
 	)
 	(junction
 		(at 88.9 67.31)
@@ -1053,16 +1425,40 @@
 		(uuid "af5ecf81-cd33-45b5-99c4-e3eab15be9ca")
 	)
 	(junction
+		(at 124.46 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b03eb00e-7811-49f4-b720-27b0ea0e9ef0")
+	)
+	(junction
+		(at 63.5 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b10f1cfa-8274-4e4c-aaf4-e07e0cefd184")
+	)
+	(junction
+		(at 88.9 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2935cf9-adcf-440c-b915-48902ae3ff39")
+	)
+	(junction
+		(at 119.38 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6f1936f-7e2d-46a1-99b7-4cbed926b748")
+	)
+	(junction
+		(at 104.14 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6f48623-5100-4059-a32f-fc46f7461799")
+	)
+	(junction
 		(at 124.46 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7044715-dcd6-46e1-ad24-21bf55075813")
-	)
-	(junction
-		(at 30.48 24.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b75eebf6-ff94-4761-b681-c123719c7f4b")
 	)
 	(junction
 		(at 142.24 111.76)
@@ -1071,16 +1467,22 @@
 		(uuid "b7db3d53-b8d3-4607-a92c-e91c29ce5e01")
 	)
 	(junction
-		(at 30.48 157.48)
+		(at 93.98 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "baf9f4ef-2cbe-48fd-8ae4-e60ed9f6346d")
+		(uuid "b7fbf2d8-05b5-44dc-ab79-2dc3efa9a09e")
 	)
 	(junction
 		(at 53.34 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc72523f-8c77-41b1-b810-26f41a79f251")
+	)
+	(junction
+		(at 68.58 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bea1b12b-1966-48ea-b479-ad9111ae7ab3")
 	)
 	(junction
 		(at 177.8 111.76)
@@ -1101,16 +1503,16 @@
 		(uuid "c15a3235-5dd6-4146-8ce6-d080feed84db")
 	)
 	(junction
+		(at 78.74 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2986b88-7372-43a7-a9c2-f0dc8150b192")
+	)
+	(junction
 		(at 53.34 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3536b9a-23f0-454e-ab53-9ba4c218f27d")
-	)
-	(junction
-		(at 30.48 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c4af9ff9-938d-4c27-afaf-00695765b2fb")
 	)
 	(junction
 		(at 195.58 111.76)
@@ -1131,6 +1533,18 @@
 		(uuid "c58a0bcc-fea9-4392-9cfe-e777f0f831c1")
 	)
 	(junction
+		(at 53.34 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5d691a8-5a69-4af0-92d6-438ab4be3d01")
+	)
+	(junction
+		(at 114.3 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6104821-b2ee-4cc0-badc-d35af5ac5432")
+	)
+	(junction
 		(at 106.68 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1149,10 +1563,28 @@
 		(uuid "c9341486-cc99-4bb2-b3bc-d571f2008dd6")
 	)
 	(junction
+		(at 114.3 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca0cef3c-f7ce-4f42-a8aa-e73c2bf04d0c")
+	)
+	(junction
+		(at 109.22 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cadee8fc-1ad3-4922-b69d-290a4cfdb5e4")
+	)
+	(junction
 		(at 106.68 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "caf57000-b58c-4ead-bf68-8397b8a5e759")
+	)
+	(junction
+		(at 43.18 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb5fb618-a853-44b4-9151-94d745d238ab")
 	)
 	(junction
 		(at 160.02 52.07)
@@ -1167,10 +1599,46 @@
 		(uuid "cd7935ff-0603-40dd-96a6-d5a68b05f97f")
 	)
 	(junction
+		(at 73.66 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf5f0cd6-a07d-4b03-80fa-87058dcebcc1")
+	)
+	(junction
+		(at 27.94 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf63145a-ec6b-4b81-89aa-ad6c427e6fe5")
+	)
+	(junction
+		(at 149.86 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d203d4bd-d326-499f-b40f-b6dee8fe1ff3")
+	)
+	(junction
+		(at 144.78 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d207e43a-9de2-4a65-94e7-b6e982197a65")
+	)
+	(junction
+		(at 73.66 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d299de69-a314-454d-8940-444e08224927")
+	)
+	(junction
 		(at 160.02 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d370ee71-44db-489c-b547-e905755ae0e3")
+	)
+	(junction
+		(at 83.82 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d39fd3f8-869d-45db-85a5-d878a2b96fdd")
 	)
 	(junction
 		(at 71.12 80.01)
@@ -1185,10 +1653,16 @@
 		(uuid "d598fc3d-27a2-45fb-98aa-10551bfd817b")
 	)
 	(junction
-		(at 30.48 111.76)
+		(at 68.58 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "de0ae8b7-4742-4a20-9031-589d84ad5ded")
+		(uuid "d6b8645b-f541-4c56-8bdf-8154a5dd31db")
+	)
+	(junction
+		(at 53.34 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db4472f2-5aec-4ef6-aaaa-fd9b2d3b950e")
 	)
 	(junction
 		(at 160.02 67.31)
@@ -1209,6 +1683,18 @@
 		(uuid "dfc49159-73a3-4835-b184-8177c5223abc")
 	)
 	(junction
+		(at 149.86 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e15289db-0bc0-4f4a-8475-c86a2990e319")
+	)
+	(junction
+		(at 99.06 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1de8e0a-2a2d-428e-9195-6d6d1fc2026d")
+	)
+	(junction
 		(at 231.14 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1227,16 +1713,16 @@
 		(uuid "e7833e0b-a3e7-4b5a-9a4e-758029c12fa8")
 	)
 	(junction
-		(at 30.48 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e7fba978-0091-43a6-92e1-296f0b7474b2")
-	)
-	(junction
 		(at 53.34 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8c42727-b9fa-4f87-8a51-93055c639722")
+	)
+	(junction
+		(at 53.34 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e96b6255-4800-4031-98ea-a7ff234a7e47")
 	)
 	(junction
 		(at 71.12 52.07)
@@ -1251,6 +1737,12 @@
 		(uuid "eacd6d47-9f29-45c2-acb3-4b68aa7f9ec6")
 	)
 	(junction
+		(at 139.7 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb5bfd5e-5dba-4b4c-aedb-629145002cee")
+	)
+	(junction
 		(at 231.14 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1261,6 +1753,30 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eceaa7e9-8e64-4459-a188-e20a47f5266b")
+	)
+	(junction
+		(at 129.54 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "efac372d-3a5f-41f5-979e-4d9dae1e49c6")
+	)
+	(junction
+		(at 33.02 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "efffbd2f-d08a-4fd1-8647-45dde093913d")
+	)
+	(junction
+		(at 33.02 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0261d75-5796-44ff-ba43-52cf6e6c71d5")
+	)
+	(junction
+		(at 48.26 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0a54660-6f87-45fd-8931-1c7fa4e3a9d7")
 	)
 	(junction
 		(at 71.12 111.76)
@@ -1275,16 +1791,22 @@
 		(uuid "f3fe522f-30f5-445e-8157-156a65bb3f6e")
 	)
 	(junction
+		(at 63.5 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4eb385e-3703-454e-a349-a1a6c04db16b")
+	)
+	(junction
 		(at 106.68 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5582a28-7396-43d4-b04e-272f2c0eb56d")
 	)
 	(junction
-		(at 30.48 52.07)
+		(at 53.34 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f7f3c821-1b16-4f56-a198-c5506290332f")
+		(uuid "f79a00ec-76c2-4b24-a383-462eeb475f8e")
 	)
 	(junction
 		(at 195.58 142.24)
@@ -1293,10 +1815,28 @@
 		(uuid "f973ba53-195b-485d-a53a-09131c3cf4d5")
 	)
 	(junction
+		(at 33.02 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fcab1e9e-0dcd-4dab-8129-732813fac27e")
+	)
+	(junction
+		(at 129.54 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd53eda1-e615-4533-a040-fe31f8c3624f")
+	)
+	(junction
 		(at 124.46 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd61d3b3-12d1-41e5-8055-54b958aa3b9a")
+	)
+	(junction
+		(at 27.94 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd99660a-45cf-4923-a52a-8d8399da9dab")
 	)
 	(junction
 		(at 71.12 24.13)
@@ -1310,6 +1850,14 @@
 		(color 0 0 0 0)
 		(uuid "fef644cf-7a45-4d81-9e43-2a8acc9218ee")
 	)
+	(no_connect
+		(at 256.54 149.86)
+		(uuid "8a365b35-6f1a-4e8e-a6e8-233f5537621a")
+	)
+	(no_connect
+		(at 185.42 87.63)
+		(uuid "ff1567e4-05cb-4e9f-bf4d-528c00bebe32")
+	)
 	(wire
 		(pts
 			(xy 71.12 142.24) (xy 88.9 142.24)
@@ -1322,6 +1870,36 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 177.8) (xy 88.9 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "012dee91-aab3-4321-9522-bb757ef932a5")
+	)
+	(wire
+		(pts
+			(xy 149.86 181.61) (xy 154.94 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02700530-2dbf-42ff-9402-de5362174a42")
+	)
+	(wire
+		(pts
+			(xy 114.3 177.8) (xy 119.38 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02c6995a-4ba3-4a67-bf58-7ded66da3cff")
+	)
+	(wire
+		(pts
 			(xy 185.42 149.86) (xy 187.96 149.86)
 		)
 		(stroke
@@ -1329,16 +1907,6 @@
 			(type default)
 		)
 		(uuid "03ceba72-223a-43c9-a59d-41cd3132fb3b")
-	)
-	(wire
-		(pts
-			(xy 26.67 95.25) (xy 30.48 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03df0ff0-a4f9-4797-b98b-5d18a7b267be")
 	)
 	(wire
 		(pts
@@ -1362,6 +1930,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 181.61) (xy 53.34 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0711fd80-3bfa-463d-a8e9-3d842bc18267")
+	)
+	(wire
+		(pts
 			(xy 238.76 31.75) (xy 241.3 31.75)
 		)
 		(stroke
@@ -1369,6 +1947,16 @@
 			(type default)
 		)
 		(uuid "086a5410-3938-40b4-8fd5-8408042c33f7")
+	)
+	(wire
+		(pts
+			(xy 33.02 189.23) (xy 38.1 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08e831c5-c7ff-4d3c-a33b-083372c2b585")
 	)
 	(wire
 		(pts
@@ -1382,6 +1970,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 177.8) (xy 149.86 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c5cbec4-3970-495e-81c2-81bea3669cd3")
+	)
+	(wire
+		(pts
 			(xy 238.76 119.38) (xy 241.3 119.38)
 		)
 		(stroke
@@ -1389,6 +1987,16 @@
 			(type default)
 		)
 		(uuid "0df4b14c-a2cc-4a51-a861-251c503f8293")
+	)
+	(wire
+		(pts
+			(xy 114.3 170.18) (xy 119.38 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eb614d1-33dd-4354-a8ea-26b9912f833c")
 	)
 	(wire
 		(pts
@@ -1422,13 +2030,23 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 127) (xy 30.48 127)
+			(xy 26.67 127) (xy 53.34 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "122e26f8-101b-4aaa-a7df-2462c01bbf53")
+	)
+	(wire
+		(pts
+			(xy 73.66 177.8) (xy 78.74 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1234ec7e-b32b-42a4-88b0-1890ad9cf92c")
 	)
 	(wire
 		(pts
@@ -1439,6 +2057,16 @@
 			(type default)
 		)
 		(uuid "134b0a0d-8381-4925-a3c7-01babddee223")
+	)
+	(wire
+		(pts
+			(xy 139.7 189.23) (xy 144.78 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "139aff81-b67b-4ebf-8ffc-31884d834bd7")
 	)
 	(wire
 		(pts
@@ -1472,16 +2100,6 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 142.24) (xy 30.48 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "157e9e34-22b0-43a1-949f-e46130e16625")
-	)
-	(wire
-		(pts
 			(xy 106.68 142.24) (xy 124.46 142.24)
 		)
 		(stroke
@@ -1489,6 +2107,16 @@
 			(type default)
 		)
 		(uuid "15ed765f-2a02-416c-aaa4-5cc7100cf677")
+	)
+	(wire
+		(pts
+			(xy 109.22 189.23) (xy 114.3 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "191c372f-eb70-43e8-84b4-2e10394091cb")
 	)
 	(wire
 		(pts
@@ -1502,6 +2130,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 170.18) (xy 58.42 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aceaa1d-087d-4bb8-aadc-c681db954dd5")
+	)
+	(wire
+		(pts
 			(xy 39.37 59.69) (xy 45.72 59.69)
 		)
 		(stroke
@@ -1512,13 +2150,43 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 80.01) (xy 30.48 83.82)
+			(xy 78.74 189.23) (xy 83.82 189.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "227bed54-0673-4ac4-9fc3-ec0d50bec7cb")
+		(uuid "1c25e672-dee8-418a-b595-6436587da720")
+	)
+	(wire
+		(pts
+			(xy 63.5 189.23) (xy 68.58 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cc5020c-9348-476d-954f-e689934c67aa")
+	)
+	(wire
+		(pts
+			(xy 99.06 189.23) (xy 104.14 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2099d1fd-a719-4297-87b3-5e483e2483d7")
+	)
+	(wire
+		(pts
+			(xy 149.86 189.23) (xy 154.94 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23513710-d086-4200-9e9c-f271cf429f5e")
 	)
 	(wire
 		(pts
@@ -1532,6 +2200,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 177.8) (xy 27.94 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26b15e8e-626c-4510-950f-f44bb8c22c78")
+	)
+	(wire
+		(pts
 			(xy 231.14 111.76) (xy 248.92 111.76)
 		)
 		(stroke
@@ -1542,13 +2220,23 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 24.13) (xy 30.48 27.94)
+			(xy 78.74 170.18) (xy 83.82 170.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2880e2b6-7211-46c1-9cdc-3fff45080e06")
+		(uuid "2878eca9-9724-4038-af51-4542a357c994")
+	)
+	(wire
+		(pts
+			(xy 48.26 170.18) (xy 53.34 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "288a0831-e956-46b8-abdf-df6cee40210d")
 	)
 	(wire
 		(pts
@@ -1569,6 +2257,36 @@
 			(type default)
 		)
 		(uuid "2a4261ea-5f65-4007-914c-6d72af973a3d")
+	)
+	(wire
+		(pts
+			(xy 53.34 177.8) (xy 58.42 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b549261-ce03-4fe5-b7a0-cf493347df25")
+	)
+	(wire
+		(pts
+			(xy 139.7 170.18) (xy 144.78 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b6a31da-1063-484d-a945-08eb16329058")
+	)
+	(wire
+		(pts
+			(xy 124.46 177.8) (xy 129.54 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b998a7c-92f7-427d-a9c6-d11e901466c2")
 	)
 	(wire
 		(pts
@@ -1602,6 +2320,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 189.23) (xy 48.26 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cb11fba-13ef-4565-aeed-3395b83f32f2")
+	)
+	(wire
+		(pts
 			(xy 256.54 132.08) (xy 39.37 132.08)
 		)
 		(stroke
@@ -1609,16 +2337,6 @@
 			(type default)
 		)
 		(uuid "2d2a9c8e-d694-4434-8555-0cd2e88c56eb")
-	)
-	(wire
-		(pts
-			(xy 26.67 39.37) (xy 30.48 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e6abfb6-fa3c-4441-ba02-f0f49875adfc")
 	)
 	(wire
 		(pts
@@ -1652,6 +2370,36 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 170.18) (xy 149.86 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "314ff425-7566-481d-a9d4-08078965d7d0")
+	)
+	(wire
+		(pts
+			(xy 33.02 181.61) (xy 38.1 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31c241b4-8ff9-4e1e-becd-6f4741f4aaf6")
+	)
+	(wire
+		(pts
+			(xy 58.42 170.18) (xy 63.5 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3252c250-6b03-4eba-9bcf-dcc02b815ad3")
+	)
+	(wire
+		(pts
 			(xy 213.36 39.37) (xy 231.14 39.37)
 		)
 		(stroke
@@ -1682,13 +2430,23 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 67.31) (xy 30.48 67.31)
+			(xy 26.67 67.31) (xy 53.34 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "39c833b4-049e-4e61-b7fb-00dbab601bf0")
+	)
+	(wire
+		(pts
+			(xy 104.14 177.8) (xy 109.22 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39d1307d-94a1-4616-9921-5964c52ed117")
 	)
 	(wire
 		(pts
@@ -1722,6 +2480,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 170.18) (xy 124.46 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d5dfa69-9bc6-40f4-8358-a5dd65556d37")
+	)
+	(wire
+		(pts
 			(xy 160.02 52.07) (xy 177.8 52.07)
 		)
 		(stroke
@@ -1742,6 +2510,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 189.23) (xy 53.34 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e20b795-eb68-48e6-9318-6f11d321f81c")
+	)
+	(wire
+		(pts
 			(xy 195.58 24.13) (xy 213.36 24.13)
 		)
 		(stroke
@@ -1749,6 +2527,36 @@
 			(type default)
 		)
 		(uuid "3f00f692-100d-472d-a45e-2d7fb41e2d9f")
+	)
+	(wire
+		(pts
+			(xy 68.58 181.61) (xy 73.66 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4249f348-aaac-4054-a728-45278fae4d8c")
+	)
+	(wire
+		(pts
+			(xy 73.66 189.23) (xy 78.74 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4493cb22-3814-491b-8d72-b35be8b8e653")
+	)
+	(wire
+		(pts
+			(xy 83.82 181.61) (xy 88.9 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45dc674e-eb2f-43d5-a447-d4d1cbed923b")
 	)
 	(wire
 		(pts
@@ -1762,23 +2570,13 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 157.48) (xy 30.48 157.48)
+			(xy 104.14 189.23) (xy 109.22 189.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "48e542bb-4fd1-48ec-8d5c-4a1c277bb4c6")
-	)
-	(wire
-		(pts
-			(xy 30.48 67.31) (xy 53.34 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49542284-b5f7-4bf5-8711-4240aff03929")
+		(uuid "48c3213f-2982-4b42-b9ab-319825ee0a00")
 	)
 	(wire
 		(pts
@@ -1789,6 +2587,26 @@
 			(type default)
 		)
 		(uuid "496ac6b5-5f25-47bd-ae59-cd4ceae1c2be")
+	)
+	(wire
+		(pts
+			(xy 139.7 181.61) (xy 144.78 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49984b4a-9a71-450f-b262-1845170da24e")
+	)
+	(wire
+		(pts
+			(xy 73.66 170.18) (xy 78.74 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49b0c918-9473-48cd-8fcb-4b9445695297")
 	)
 	(wire
 		(pts
@@ -1812,7 +2630,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 157.48) (xy 53.34 157.48)
+			(xy 26.67 157.48) (xy 53.34 157.48)
 		)
 		(stroke
 			(width 0)
@@ -1852,6 +2670,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 189.23) (xy 149.86 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53948e40-d483-4f83-b3d4-9b82c545b27b")
+	)
+	(wire
+		(pts
 			(xy 53.34 67.31) (xy 71.12 67.31)
 		)
 		(stroke
@@ -1859,6 +2687,26 @@
 			(type default)
 		)
 		(uuid "5459436f-0896-4cf0-88a8-9f085449b9cf")
+	)
+	(wire
+		(pts
+			(xy 93.98 170.18) (xy 99.06 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "577aafd7-db3c-4b3f-87a4-fd22b275477f")
+	)
+	(wire
+		(pts
+			(xy 68.58 170.18) (xy 73.66 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57fbb05e-9acb-4f68-95bc-fe15d6481279")
 	)
 	(wire
 		(pts
@@ -1872,13 +2720,43 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 153.67) (xy 30.48 157.48)
+			(xy 27.94 189.23) (xy 33.02 189.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5b0df4ed-121d-4c68-baef-df0e4783020d")
+		(uuid "58d18837-3134-422c-b4e3-8eaded4bce4f")
+	)
+	(wire
+		(pts
+			(xy 99.06 181.61) (xy 104.14 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b56ba23-28f6-418e-978b-8cf3846d8373")
+	)
+	(wire
+		(pts
+			(xy 27.94 181.61) (xy 33.02 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e625c48-aa2b-4793-a14c-1f9032a94373")
+	)
+	(wire
+		(pts
+			(xy 124.46 189.23) (xy 129.54 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f2f6fb1-6ef3-4527-9a02-f455b94831b5")
 	)
 	(wire
 		(pts
@@ -1892,13 +2770,63 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 142.24) (xy 53.34 142.24)
+			(xy 134.62 170.18) (xy 139.7 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "606f8649-5842-4c77-89b6-9ba97b6b2f39")
+	)
+	(wire
+		(pts
+			(xy 99.06 170.18) (xy 104.14 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60c9c14d-492f-4fe2-83ca-901020da4a74")
+	)
+	(wire
+		(pts
+			(xy 22.86 181.61) (xy 27.94 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "619411f6-0847-4bfe-a3a0-e8fda4d71c0b")
+	)
+	(wire
+		(pts
+			(xy 129.54 181.61) (xy 134.62 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62314add-3e47-4a6e-b7cc-d84ee72d11f5")
+	)
+	(wire
+		(pts
+			(xy 26.67 142.24) (xy 53.34 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "629b1dcb-f874-4010-8d7e-d3a85a0457e4")
+	)
+	(wire
+		(pts
+			(xy 22.86 170.18) (xy 27.94 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62aef43d-af1f-45b6-b1c5-621fd6dc970f")
 	)
 	(wire
 		(pts
@@ -1922,6 +2850,26 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 181.61) (xy 48.26 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63cc87eb-0d40-4b48-8801-d52b5cd6c71f")
+	)
+	(wire
+		(pts
+			(xy 129.54 189.23) (xy 134.62 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64bb51db-4611-41e0-9090-0ab7fa1b38b1")
+	)
+	(wire
+		(pts
 			(xy 213.36 111.76) (xy 231.14 111.76)
 		)
 		(stroke
@@ -1929,6 +2877,16 @@
 			(type default)
 		)
 		(uuid "64cec3f0-b9c3-4b63-b425-cdc02cd76e9e")
+	)
+	(wire
+		(pts
+			(xy 88.9 177.8) (xy 93.98 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "667f5732-24c3-452d-b487-7eb0c878ad0f")
 	)
 	(wire
 		(pts
@@ -1942,13 +2900,13 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 142.24) (xy 30.48 146.05)
+			(xy 38.1 181.61) (xy 43.18 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "69c73179-53bd-4975-b4a3-14ba5dc47830")
+		(uuid "69e40543-3469-44c4-82fe-cf7428f26a23")
 	)
 	(wire
 		(pts
@@ -1982,26 +2940,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 80.01) (xy 53.34 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "704b12dd-a71c-4903-a568-371fc8485715")
-	)
-	(wire
-		(pts
-			(xy 30.48 63.5) (xy 30.48 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71402614-9deb-444e-8551-62aa4ef44ec6")
-	)
-	(wire
-		(pts
 			(xy 114.3 31.75) (xy 116.84 31.75)
 		)
 		(stroke
@@ -2012,23 +2950,13 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 111.76) (xy 53.34 111.76)
+			(xy 26.67 111.76) (xy 53.34 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "71f7e0f9-d819-4404-b664-077b3e3c9aad")
-	)
-	(wire
-		(pts
-			(xy 26.67 111.76) (xy 30.48 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7226d2ff-3b7a-486a-8cbc-9f1daec7560f")
 	)
 	(wire
 		(pts
@@ -2039,6 +2967,16 @@
 			(type default)
 		)
 		(uuid "726669b2-1d99-4ac9-b311-1b97e5803baa")
+	)
+	(wire
+		(pts
+			(xy 88.9 170.18) (xy 93.98 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73701ae4-729f-4acf-9d33-dc5221682600")
 	)
 	(wire
 		(pts
@@ -2122,6 +3060,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 181.61) (xy 149.86 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a38ddbc-8bd3-499a-8d64-ead6990711ac")
+	)
+	(wire
+		(pts
 			(xy 142.24 24.13) (xy 160.02 24.13)
 		)
 		(stroke
@@ -2129,6 +3077,26 @@
 			(type default)
 		)
 		(uuid "7d5b5d17-b384-43b0-8516-44b683567e95")
+	)
+	(wire
+		(pts
+			(xy 43.18 170.18) (xy 48.26 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e56d9e9-df3f-4eb7-8a12-7dd93470ebab")
+	)
+	(wire
+		(pts
+			(xy 99.06 177.8) (xy 104.14 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e60dbb2-4a12-4e7d-9acc-b23596d129ce")
 	)
 	(wire
 		(pts
@@ -2152,13 +3120,33 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 52.07) (xy 30.48 55.88)
+			(xy 119.38 181.61) (xy 124.46 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "80d1e531-40c5-4dac-b09d-1dcd8ddf94c7")
+		(uuid "7ed8dd74-47ea-4285-b6d7-8591fb69b539")
+	)
+	(wire
+		(pts
+			(xy 93.98 181.61) (xy 99.06 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f0c2886-a7a3-4a0f-bfe6-8a721de10122")
+	)
+	(wire
+		(pts
+			(xy 53.34 189.23) (xy 58.42 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "823b514f-c086-4b6f-9077-c5839f2c3d20")
 	)
 	(wire
 		(pts
@@ -2172,6 +3160,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 189.23) (xy 63.5 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8303b4f2-8a45-4642-ae32-ce4d459785c1")
+	)
+	(wire
+		(pts
 			(xy 195.58 111.76) (xy 213.36 111.76)
 		)
 		(stroke
@@ -2179,6 +3177,36 @@
 			(type default)
 		)
 		(uuid "8305a0f7-b966-42a8-9650-8ac1e7f303b9")
+	)
+	(wire
+		(pts
+			(xy 68.58 177.8) (xy 73.66 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "850a1504-621e-423c-ae8f-129cea9b323e")
+	)
+	(wire
+		(pts
+			(xy 129.54 177.8) (xy 134.62 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "855f2244-7a9b-4e24-b3b1-d8bba627735e")
+	)
+	(wire
+		(pts
+			(xy 58.42 177.8) (xy 63.5 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85944217-4d3b-47bc-86c3-e68e9390f6cd")
 	)
 	(wire
 		(pts
@@ -2192,6 +3220,26 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 181.61) (xy 139.7 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "877da165-f2da-49af-b21a-5ba1b46f4920")
+	)
+	(wire
+		(pts
+			(xy 124.46 170.18) (xy 129.54 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "878b42b7-7559-4f5c-8c11-167515e3218a")
+	)
+	(wire
+		(pts
 			(xy 160.02 142.24) (xy 177.8 142.24)
 		)
 		(stroke
@@ -2202,6 +3250,26 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 177.8) (xy 124.46 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "882cf839-bd89-4b51-8beb-fc49e4957b7e")
+	)
+	(wire
+		(pts
+			(xy 93.98 177.8) (xy 99.06 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88aecd62-4271-46d2-a140-101cb4c57fda")
+	)
+	(wire
+		(pts
 			(xy 114.3 149.86) (xy 116.84 149.86)
 		)
 		(stroke
@@ -2209,6 +3277,16 @@
 			(type default)
 		)
 		(uuid "8a59d430-cfc4-44bb-9a57-032e4a45342e")
+	)
+	(wire
+		(pts
+			(xy 109.22 181.61) (xy 114.3 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a800a31-fba9-4176-b9f3-eade175ed87d")
 	)
 	(wire
 		(pts
@@ -2232,6 +3310,26 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 170.18) (xy 38.1 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e6ff378-ddfb-4c3a-8738-cb485ff8663e")
+	)
+	(wire
+		(pts
+			(xy 38.1 170.18) (xy 43.18 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f23413d-12e8-4250-837d-a1b963a66f0c")
+	)
+	(wire
+		(pts
 			(xy 39.37 87.63) (xy 45.72 87.63)
 		)
 		(stroke
@@ -2239,6 +3337,16 @@
 			(type default)
 		)
 		(uuid "916dbe1c-4520-42f8-bb12-1f7e70071569")
+	)
+	(wire
+		(pts
+			(xy 149.86 170.18) (xy 154.94 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91c49157-399d-4130-9f90-e466266c6573")
 	)
 	(wire
 		(pts
@@ -2262,6 +3370,36 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 177.8) (xy 144.78 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93df68f7-32b4-4424-8edc-1bea115162d5")
+	)
+	(wire
+		(pts
+			(xy 33.02 177.8) (xy 38.1 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93ecddb0-aa66-45c9-84ce-5878ea2258ce")
+	)
+	(wire
+		(pts
+			(xy 27.94 177.8) (xy 33.02 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "960a0b97-aff1-483d-908c-a29812501cd3")
+	)
+	(wire
+		(pts
 			(xy 96.52 87.63) (xy 99.06 87.63)
 		)
 		(stroke
@@ -2269,6 +3407,26 @@
 			(type default)
 		)
 		(uuid "976c29be-1705-42b1-8669-158a676a89cb")
+	)
+	(wire
+		(pts
+			(xy 63.5 181.61) (xy 68.58 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99916c43-f844-4c6a-96fc-f6f64e20eef8")
+	)
+	(wire
+		(pts
+			(xy 134.62 189.23) (xy 139.7 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a8cf3ce-b161-4300-a272-fe332a18ee05")
 	)
 	(wire
 		(pts
@@ -2322,6 +3480,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 189.23) (xy 93.98 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e142e66-780c-4c9a-b877-0c40a17e74cb")
+	)
+	(wire
+		(pts
 			(xy 256.54 31.75) (xy 256.54 43.18)
 		)
 		(stroke
@@ -2329,6 +3497,16 @@
 			(type default)
 		)
 		(uuid "9e413e1e-eca5-444b-8cb3-067b475d4943")
+	)
+	(wire
+		(pts
+			(xy 119.38 189.23) (xy 124.46 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e455132-9392-4245-9a14-9980a88ef63e")
 	)
 	(wire
 		(pts
@@ -2442,6 +3620,26 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 177.8) (xy 48.26 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab9cdd95-7144-4ff4-8145-23403e5a8329")
+	)
+	(wire
+		(pts
+			(xy 129.54 170.18) (xy 134.62 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abc36142-3a15-4dfb-9e0e-d31541bc0a56")
+	)
+	(wire
+		(pts
 			(xy 106.68 157.48) (xy 124.46 157.48)
 		)
 		(stroke
@@ -2462,7 +3660,27 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 39.37) (xy 53.34 39.37)
+			(xy 114.3 189.23) (xy 119.38 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad2b3b33-5c7a-4eac-8b97-702b1b4ec1ae")
+	)
+	(wire
+		(pts
+			(xy 104.14 181.61) (xy 109.22 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b098d2b4-44f5-4db6-909c-211edc860a66")
+	)
+	(wire
+		(pts
+			(xy 26.67 39.37) (xy 53.34 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2479,6 +3697,16 @@
 			(type default)
 		)
 		(uuid "b0e85c9f-3a61-483f-a2e5-ffb54e154fb9")
+	)
+	(wire
+		(pts
+			(xy 68.58 189.23) (xy 73.66 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1fe48a6-a743-438c-bfb2-89f16cf73735")
 	)
 	(wire
 		(pts
@@ -2512,6 +3740,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 177.8) (xy 43.18 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4c1f1dd-ba41-4393-b631-9c79c2b74739")
+	)
+	(wire
+		(pts
 			(xy 124.46 24.13) (xy 142.24 24.13)
 		)
 		(stroke
@@ -2542,6 +3780,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 170.18) (xy 114.3 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6c37561-4613-422e-be89-96894d54e108")
+	)
+	(wire
+		(pts
 			(xy 53.34 24.13) (xy 71.12 24.13)
 		)
 		(stroke
@@ -2559,6 +3807,16 @@
 			(type default)
 		)
 		(uuid "b9678418-75b8-4665-9ea4-72b7d720c9d5")
+	)
+	(wire
+		(pts
+			(xy 78.74 177.8) (xy 83.82 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb34b9e4-9a4f-43cc-a16c-c443736d42e8")
 	)
 	(wire
 		(pts
@@ -2622,6 +3880,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 181.61) (xy 129.54 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c41d913e-13c6-4051-b3b5-c839300f76ba")
+	)
+	(wire
+		(pts
 			(xy 195.58 142.24) (xy 213.36 142.24)
 		)
 		(stroke
@@ -2632,13 +3900,23 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 111.76) (xy 30.48 115.57)
+			(xy 73.66 181.61) (xy 78.74 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c71226d3-704e-4c0a-a368-6bec8aafc60b")
+		(uuid "c6483b2e-b1d0-4f4c-8f36-f8e5fb9298a3")
+	)
+	(wire
+		(pts
+			(xy 134.62 177.8) (xy 139.7 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c74af89c-f2b4-44e2-a4ac-78fe7611e7c7")
 	)
 	(wire
 		(pts
@@ -2672,7 +3950,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 52.07) (xy 30.48 52.07)
+			(xy 26.67 52.07) (xy 53.34 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2712,6 +3990,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 189.23) (xy 88.9 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfa7f736-226b-4e00-8c73-89330eb92a17")
+	)
+	(wire
+		(pts
 			(xy 231.14 24.13) (xy 248.92 24.13)
 		)
 		(stroke
@@ -2732,7 +4020,17 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 80.01) (xy 30.48 80.01)
+			(xy 22.86 189.23) (xy 27.94 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0edb2e0-c413-47a7-bdde-7a46e46aff13")
+	)
+	(wire
+		(pts
+			(xy 26.67 80.01) (xy 53.34 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2742,13 +4040,13 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 91.44) (xy 30.48 95.25)
+			(xy 58.42 181.61) (xy 63.5 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d34ed855-47b6-4db0-8791-d116a68a203b")
+		(uuid "d31bf766-d04c-441b-86eb-23be700df631")
 	)
 	(wire
 		(pts
@@ -2792,13 +4090,13 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 52.07) (xy 53.34 52.07)
+			(xy 88.9 181.61) (xy 93.98 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d565afa0-10a4-4167-a2ec-054e76cf9e94")
+		(uuid "d68e14fb-ebdf-4fbe-b664-dcbaaf617d1f")
 	)
 	(wire
 		(pts
@@ -2812,6 +4110,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 177.8) (xy 53.34 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d96ab0a1-3e78-4ed0-ab0a-80136b1973ce")
+	)
+	(wire
+		(pts
 			(xy 53.34 80.01) (xy 71.12 80.01)
 		)
 		(stroke
@@ -2822,23 +4130,13 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 123.19) (xy 30.48 127)
+			(xy 114.3 181.61) (xy 119.38 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "db2c5200-edd6-4c55-b385-17762ba72982")
-	)
-	(wire
-		(pts
-			(xy 26.67 24.13) (xy 30.48 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db34067c-f817-4582-a285-0cb61670c372")
+		(uuid "db360f35-af13-401e-9563-ae170a10070f")
 	)
 	(wire
 		(pts
@@ -2872,7 +4170,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 24.13) (xy 53.34 24.13)
+			(xy 26.67 24.13) (xy 53.34 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2902,13 +4200,13 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 127) (xy 53.34 127)
+			(xy 104.14 170.18) (xy 109.22 170.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e1c46641-a7ee-45e5-b4a8-9ac736495d1d")
+		(uuid "e1439023-7de6-41bc-96a9-bca58a2659d5")
 	)
 	(wire
 		(pts
@@ -2932,6 +4230,26 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 177.8) (xy 154.94 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4cd7609-4cfd-4cd0-b3dc-15c83435d97c")
+	)
+	(wire
+		(pts
+			(xy 78.74 181.61) (xy 83.82 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e500a459-b767-4090-9160-f6168826eb76")
+	)
+	(wire
+		(pts
 			(xy 106.68 39.37) (xy 124.46 39.37)
 		)
 		(stroke
@@ -2952,6 +4270,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 189.23) (xy 43.18 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e77be910-216e-4f87-b0b5-50d8a13936f1")
+	)
+	(wire
+		(pts
 			(xy 124.46 80.01) (xy 142.24 80.01)
 		)
 		(stroke
@@ -2959,6 +4287,16 @@
 			(type default)
 		)
 		(uuid "e849d3e8-4bd8-4f95-90bc-191dc7908f8e")
+	)
+	(wire
+		(pts
+			(xy 83.82 170.18) (xy 88.9 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9e524cd-ef08-4dfb-a3ef-eba49839fb90")
 	)
 	(wire
 		(pts
@@ -3032,6 +4370,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 181.61) (xy 58.42 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f38f904e-73f7-4e89-b56d-c5ebb7db216d")
+	)
+	(wire
+		(pts
 			(xy 88.9 127) (xy 106.68 127)
 		)
 		(stroke
@@ -3042,6 +4390,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 170.18) (xy 68.58 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4b2a9ba-03c2-4ea1-8487-8c0d1a88e436")
+	)
+	(wire
+		(pts
+			(xy 27.94 170.18) (xy 33.02 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f50dc036-a2b4-416a-a97d-a4b9842c112d")
+	)
+	(wire
+		(pts
 			(xy 220.98 149.86) (xy 223.52 149.86)
 		)
 		(stroke
@@ -3049,6 +4417,16 @@
 			(type default)
 		)
 		(uuid "f6a44c60-629b-4543-9c87-7c93558100fd")
+	)
+	(wire
+		(pts
+			(xy 109.22 177.8) (xy 114.3 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6a8937d-31a6-4262-92a1-2e944c79a4d8")
 	)
 	(wire
 		(pts
@@ -3082,6 +4460,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 189.23) (xy 99.06 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8d433eb-7561-45ba-a8be-fcc47fc564e4")
+	)
+	(wire
+		(pts
 			(xy 185.42 119.38) (xy 187.96 119.38)
 		)
 		(stroke
@@ -3102,6 +4490,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 177.8) (xy 68.58 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f98c6517-373b-4c18-a69f-8bd5295ec2d8")
+	)
+	(wire
+		(pts
 			(xy 124.46 127) (xy 142.24 127)
 		)
 		(stroke
@@ -3109,16 +4507,6 @@
 			(type default)
 		)
 		(uuid "fbccfc3b-bdf9-49ca-b9a7-0ad80f221bcd")
-	)
-	(wire
-		(pts
-			(xy 30.48 35.56) (xy 30.48 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc818148-1d20-4233-8127-5d8dd683f7b5")
 	)
 	(wire
 		(pts
@@ -3152,7 +4540,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 95.25) (xy 53.34 95.25)
+			(xy 26.67 95.25) (xy 53.34 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3160,25 +4548,134 @@
 		)
 		(uuid "ffd3d179-3c94-42c1-9152-5f400dd79853")
 	)
-	(label "LED_2"
-		(at 41.91 119.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "48dd1b0d-e7bb-4e0d-aa4a-bd024aa8f540")
-	)
-	(label "LED_1"
+	(global_label "LED_1"
+		(shape input)
 		(at 41.91 31.75 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "f4b18527-241a-4cda-8728-519c32e8cab2")
+		(uuid "3b0d4e2f-d288-4c62-8270-b9aacc05eab0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.3006 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_2"
+		(shape input)
+		(at 41.91 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ec27965a-0ca4-422b-91ee-ef8affc69efe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.3006 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 139.7 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0367763a-38af-443d-8455-2f911930ce76")
+		(property "Reference" "C223"
+			(at 137.414 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 137.414 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 140.6652 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 139.7 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "af0c66bd-61ed-45b3-9d3a-6baf376e8ae2")
+		)
+		(pin "2"
+			(uuid "21262734-170d-4864-9bcf-b907ad6802ef")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C223")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "LED:WS2812B-2020")
@@ -3355,6 +4852,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 129.54 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "05043058-c8ca-4322-aab6-1e9503987455")
+		(property "Reference" "C221"
+			(at 127.254 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 127.254 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 130.5052 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 129.54 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "41f32edc-d169-4a1c-a28f-cd90b7526350")
+		)
+		(pin "2"
+			(uuid "8a679065-0935-4bc7-8ab3-4bffba620f5a")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C221")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 88.9 149.86 0)
 		(unit 1)
@@ -3436,6 +5014,87 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D243")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 43.18 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0b191b6a-5690-469e-b583-a5bad1f1b8f1")
+		(property "Reference" "C204"
+			(at 40.894 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 40.894 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 44.1452 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 43.18 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ea491df3-950e-471a-b482-bd8d91cf21ab")
+		)
+		(pin "2"
+			(uuid "d51b563b-9486-4e56-aad6-a3ecdc6fd082")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C204")
 					(unit 1)
 				)
 			)
@@ -3529,6 +5188,168 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 73.66 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "121b432a-9a4a-4151-8927-f29103658aa6")
+		(property "Reference" "C210"
+			(at 71.374 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 71.374 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 74.6252 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 73.66 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b0fb40b5-464d-4e22-8ab8-4fb2f2ec7839")
+		)
+		(pin "2"
+			(uuid "f0d9914d-7e46-4dc5-b10a-f60e97f872e6")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C210")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 154.94 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1a8f9946-4812-48ae-9432-c545523e3ee3")
+		(property "Reference" "C252"
+			(at 152.4 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 152.4 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 155.9052 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 154.94 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a5b4ebdc-e762-49fc-af69-944fe1059fd5")
+		)
+		(pin "2"
+			(uuid "fd04e5ca-a681-4e8f-927e-7339643055f9")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C252")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 177.8 31.75 0)
 		(unit 1)
@@ -3610,6 +5431,87 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D208")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 88.9 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1d9ff3c9-5715-4967-97b3-ba06ba077e3c")
+		(property "Reference" "C213"
+			(at 86.614 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 86.614 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 89.8652 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 88.9 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e7c8bf70-4fa4-4428-b02a-19a63570fbe1")
+		)
+		(pin "2"
+			(uuid "0c23396e-dc61-4cad-959a-9fc991a6e4b3")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C213")
 					(unit 1)
 				)
 			)
@@ -3784,87 +5686,6 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D241")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 30.48 31.75 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2130e5af-08ea-4946-a151-9d1feb04dc8d")
-		(property "Reference" "C201"
-			(at 22.606 30.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 22.606 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
-			(at 31.4452 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 30.48 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "41c4f003-aa86-425c-a810-7e815deff514")
-		)
-		(pin "2"
-			(uuid "39880284-d7bf-4b0a-bcc7-a8cc38865dfd")
-		)
-		(instances
-			(project "mb-reader"
-				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
-					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -4203,6 +6024,247 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 124.46 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "26b550f4-a87b-41dd-962c-374fc97c5c98")
+		(property "Reference" "C245"
+			(at 121.92 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 121.92 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 125.4252 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 124.46 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dd7e969d-e9ce-4619-80fa-de21bdbaabf7")
+		)
+		(pin "2"
+			(uuid "cc3bee8c-1f69-49f6-adcc-6ff966e14b99")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C245")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 78.74 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2b8a00b1-56e5-4d23-901a-ac1a0f2fa44c")
+		(property "Reference" "C211"
+			(at 76.454 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 76.454 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 79.7052 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 78.74 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "daa21cbc-0f0b-42a9-b0bf-43cccc42c46c")
+		)
+		(pin "2"
+			(uuid "bc521a57-a323-4289-ac43-ebcd847b22fd")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C211")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 22.86 189.23 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c79c664-39c0-4805-9132-b525b5e76bfb")
+		(property "Reference" "#PWR0214"
+			(at 16.51 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 19.05 189.2299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 22.86 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8590084b-baf2-47a3-8b4f-126df99efefe")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "#PWR0214")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 177.8 87.63 0)
 		(unit 1)
@@ -4369,6 +6431,492 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 63.5 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "32847502-be22-455c-80bf-652ab7edc740")
+		(property "Reference" "C233"
+			(at 60.96 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 60.96 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 64.4652 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 63.5 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1d675f9b-d1cd-4a7e-8188-a13a775283bb")
+		)
+		(pin "2"
+			(uuid "7165e11c-ae13-48e7-85c9-2acdbd11d71e")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C233")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 27.94 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "336fc7eb-4eb6-4a46-a50f-2f36671506cb")
+		(property "Reference" "C203"
+			(at 25.654 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 25.654 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 28.9052 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 27.94 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e9166f52-eea0-446d-a4f0-177551c69a7b")
+		)
+		(pin "2"
+			(uuid "38fe935b-d805-495d-9e04-be774c621476")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C203")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 104.14 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "33fe1615-6f5c-47d7-a36e-66afcba55ed4")
+		(property "Reference" "C216"
+			(at 101.854 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 101.854 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 105.1052 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 104.14 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "85822a4d-1d50-48ca-9eb8-8f7ef5967110")
+		)
+		(pin "2"
+			(uuid "2356491c-aef1-4c6d-b787-ab950d267d4e")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C216")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 139.7 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3831c7b4-10a0-4a8d-80ac-bb5e0cd31d52")
+		(property "Reference" "C248"
+			(at 137.16 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 137.16 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 140.6652 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 139.7 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "524120d2-ac64-47a9-b836-6135699aeec8")
+		)
+		(pin "2"
+			(uuid "d1ab17df-f3fd-48b3-806f-06afecb69e38")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C248")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 88.9 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "390ec34f-d5e7-4e51-b38c-8894f861d63b")
+		(property "Reference" "C238"
+			(at 86.36 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 86.36 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 89.8652 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 88.9 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "831fa52d-eef7-44f0-8705-0b198d260dc0")
+		)
+		(pin "2"
+			(uuid "83477e58-2c20-497e-9fc4-b227b4f91cc4")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C238")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 53.34 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "39ffa257-ccbf-4372-ad7c-ee92920e9e86")
+		(property "Reference" "C231"
+			(at 50.8 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 50.8 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 54.3052 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 53.34 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4889ac68-a27b-495a-90d7-16388e954d28")
+		)
+		(pin "2"
+			(uuid "9f5ba2ac-f146-4010-8c28-0d134d579a51")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C231")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 53.34 119.38 0)
 		(unit 1)
@@ -4457,7 +7005,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 30.48 87.63 0)
+		(at 73.66 185.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4465,9 +7013,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "3e9633c8-299a-4d7f-835d-1db2f0061f05")
-		(property "Reference" "C203"
-			(at 22.606 86.36 0)
+		(uuid "43ac23d7-6d21-4dac-948d-2c7891e331b8")
+		(property "Reference" "C235"
+			(at 71.12 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4478,7 +7026,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 22.606 88.9 0)
+			(at 71.12 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4488,8 +7036,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
-			(at 31.4452 91.44 0)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 74.6252 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4500,7 +7048,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 87.63 0)
+			(at 73.66 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4511,7 +7059,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 30.48 87.63 0)
+			(at 73.66 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4522,15 +7070,177 @@
 			)
 		)
 		(pin "1"
-			(uuid "9a1c8e54-0f8e-4863-bed5-9e748bda51a3")
+			(uuid "43d899fa-5360-4489-9da5-3da0780a4b6c")
 		)
 		(pin "2"
-			(uuid "af69decd-759e-4d85-b910-9b88a4f68f58")
+			(uuid "8f1f20d7-69e1-413f-baa3-13c21d92cfd3")
 		)
 		(instances
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
-					(reference "C203")
+					(reference "C235")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 109.22 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "44a8492c-3640-4dd1-91c0-536766ade6e6")
+		(property "Reference" "C217"
+			(at 106.934 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 106.934 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 110.1852 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 109.22 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d528ac65-78ff-423a-96ef-046a3d604327")
+		)
+		(pin "2"
+			(uuid "8d271f8f-4a8b-429f-a795-847483396897")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C217")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 144.78 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "44dd75e4-8345-4458-beda-8dd9162a480f")
+		(property "Reference" "C224"
+			(at 142.494 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 142.494 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 145.7452 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 144.78 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f0e924ad-d012-4ee9-9db3-4834aeb8af5f")
+		)
+		(pin "2"
+			(uuid "ff6c528b-2bc6-4f97-8dec-017234011137")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C224")
 					(unit 1)
 				)
 			)
@@ -4618,6 +7328,87 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D218")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 119.38 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4f899902-77ee-4d6f-91da-c50e398d675a")
+		(property "Reference" "C244"
+			(at 116.84 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 116.84 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 120.3452 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 119.38 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aac8d1d1-c55c-4aeb-a8e9-d837519d7e1f")
+		)
+		(pin "2"
+			(uuid "dbbb9e9a-3567-42b4-bc5d-cad175026001")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C244")
 					(unit 1)
 				)
 			)
@@ -5209,6 +8000,247 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 83.82 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "61c883b3-224c-478e-b5e4-2b8a14906f77")
+		(property "Reference" "C212"
+			(at 81.534 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 81.534 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 84.7852 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 83.82 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ec98d81e-15a3-42ae-bba7-54d54ecaeda0")
+		)
+		(pin "2"
+			(uuid "a20178e7-0917-4386-95a2-557e5e839475")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C212")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 43.18 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6298da67-bd1e-4196-a868-74115844b830")
+		(property "Reference" "C229"
+			(at 40.64 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 40.64 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 44.1452 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 43.18 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "eaacdd22-052b-4534-8b69-50b3949c8000")
+		)
+		(pin "2"
+			(uuid "de6bb0d9-34f7-4137-ac03-e454fe3a735a")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C229")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 22.86 177.8 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "67cb5766-0752-4dda-863f-338fa349539d")
+		(property "Reference" "#PWR0213"
+			(at 16.51 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 19.05 177.7999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 22.86 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b7b6fe00-da0e-4792-9a26-1050651eefac")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "#PWR0213")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 71.12 149.86 0)
 		(unit 1)
@@ -5296,6 +8328,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 38.1 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6adf4ab3-a561-461e-a65f-010358acc4ec")
+		(property "Reference" "C228"
+			(at 35.56 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 35.56 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 39.0652 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 38.1 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "71075f2e-d1e6-420a-b1ef-21bee433d78e")
+		)
+		(pin "2"
+			(uuid "0133d961-117b-444a-8f93-d36adb273f8c")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C228")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 53.34 87.63 0)
 		(unit 1)
@@ -5377,6 +8490,87 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D221")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 53.34 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "71094073-b920-4d83-8ccf-60485e58db2d")
+		(property "Reference" "C206"
+			(at 51.054 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 51.054 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 54.3052 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 53.34 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "883e55bc-ff5e-4482-9e0e-4aeec4e9392c")
+		)
+		(pin "2"
+			(uuid "eaa37195-a358-49ab-aefc-f04c2a1149d0")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C206")
 					(unit 1)
 				)
 			)
@@ -5471,7 +8665,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 30.48 149.86 0)
+		(at 48.26 185.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5479,9 +8673,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "7347123e-4436-4e1f-91a4-f7ad4de8df26")
-		(property "Reference" "C205"
-			(at 22.606 148.59 0)
+		(uuid "74744316-45a5-4a33-ada4-823e2ccd1921")
+		(property "Reference" "C230"
+			(at 45.72 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5492,7 +8686,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 22.606 151.13 0)
+			(at 45.72 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5502,8 +8696,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
-			(at 31.4452 153.67 0)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 49.2252 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5514,7 +8708,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 149.86 0)
+			(at 48.26 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5525,7 +8719,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 30.48 149.86 0)
+			(at 48.26 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5536,15 +8730,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "cd123536-c13c-4eaf-8b3c-472ab26268f8")
+			(uuid "a0688633-4987-476a-9dce-3eca8577ecd9")
 		)
 		(pin "2"
-			(uuid "db29f008-d875-4e30-bcfe-9c6169716595")
+			(uuid "67c840fd-9084-4197-b8f1-cfe9f7f54b74")
 		)
 		(instances
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
-					(reference "C205")
+					(reference "C230")
 					(unit 1)
 				)
 			)
@@ -5632,6 +8826,87 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D238")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 114.3 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "794baac9-8a97-4000-aeab-4655191a906e")
+		(property "Reference" "C218"
+			(at 112.014 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 112.014 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 115.2652 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 114.3 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ade105a-4956-4fe7-a5fb-c151d15fa305")
+		)
+		(pin "2"
+			(uuid "24478713-a755-48f5-a91a-9ed17d40da4d")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C218")
 					(unit 1)
 				)
 			)
@@ -5806,6 +9081,87 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D237")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 134.62 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "84ae9aa1-5f43-429d-92d9-778f4a75208e")
+		(property "Reference" "C222"
+			(at 132.334 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 132.334 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 135.5852 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 134.62 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "13de4ee3-a5fa-4f28-8eef-2d5cae28e5c1")
+		)
+		(pin "2"
+			(uuid "e7b607b3-57e8-4759-8cac-3480706f6981")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C222")
 					(unit 1)
 				)
 			)
@@ -6065,6 +9421,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 93.98 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "89a50980-7912-4dc7-83cd-2602de73d63f")
+		(property "Reference" "C239"
+			(at 91.44 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 91.44 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 94.9452 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 93.98 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d6d88a59-96b3-4de5-bb61-d84d7eb41df4")
+		)
+		(pin "2"
+			(uuid "339c95d6-07f2-4718-8ca7-3c3457a2bcdc")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C239")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 160.02 31.75 0)
 		(unit 1)
@@ -6146,6 +9583,87 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D207")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 154.94 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8d576856-27ac-4f47-92d8-235695044af9")
+		(property "Reference" "C251"
+			(at 152.654 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 152.654 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 155.9052 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 154.94 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "49397bbb-f02e-4032-908c-531c2b9a7d6e")
+		)
+		(pin "2"
+			(uuid "9e6007c2-f1a0-4188-9d55-134d3bceba87")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C251")
 					(unit 1)
 				)
 			)
@@ -6326,6 +9844,249 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 114.3 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9623f39e-7d5d-4920-b2f2-4fbda9994822")
+		(property "Reference" "C243"
+			(at 111.76 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 111.76 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 115.2652 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 114.3 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "852e1784-f134-4052-a9f6-31361088d978")
+		)
+		(pin "2"
+			(uuid "b38ef0a3-c02b-4e81-a321-9787de7b880d")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C243")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 149.86 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "984a504c-c545-4868-9478-655dd1677ce1")
+		(property "Reference" "C250"
+			(at 147.32 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 147.32 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 150.8252 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 149.86 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5f197097-c19e-4364-a28a-86db21a6aac8")
+		)
+		(pin "2"
+			(uuid "7590a375-b9e6-4aba-bb27-e30ae96a7546")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C250")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 83.82 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "98dcbfbb-581d-4db3-851c-60659119c925")
+		(property "Reference" "C237"
+			(at 81.28 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 81.28 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 84.7852 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 83.82 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4acbd772-85ac-4659-81ed-aedafe5fb4d2")
+		)
+		(pin "2"
+			(uuid "beee01e1-b3b8-4a61-a7df-5152d227713e")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C237")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 160.02 87.63 0)
 		(unit 1)
@@ -6407,6 +10168,87 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D227")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 38.1 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9a2a6aff-08c7-4e69-8042-0e4c893721f0")
+		(property "Reference" "C201"
+			(at 35.814 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 35.814 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 39.0652 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 38.1 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "786ecb4e-256a-4656-84a8-953b2e602f7f")
+		)
+		(pin "2"
+			(uuid "f4397904-d573-4d2b-9daf-76a0e5a0fd0a")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -6581,6 +10423,249 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D233")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 129.54 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9eb9c56d-bdb5-461d-8f16-6ab3527142af")
+		(property "Reference" "C246"
+			(at 127 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 127 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 130.5052 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 129.54 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ad18c3e0-35c8-4d5d-ac09-18b5b323b970")
+		)
+		(pin "2"
+			(uuid "8a1db06c-c768-4e15-91c2-d2e2ea36487d")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C246")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 93.98 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a0ac5445-cf0e-4442-9652-b74b8f10c291")
+		(property "Reference" "C214"
+			(at 91.694 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 91.694 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 94.9452 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 93.98 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1f3ffeae-d88e-482f-b61b-3d8fd04150c4")
+		)
+		(pin "2"
+			(uuid "aa33b65c-4587-49fc-be7e-f581610319aa")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C214")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 63.5 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a0c5629f-00ee-46bf-8a3d-b1eef69ef393")
+		(property "Reference" "C208"
+			(at 61.214 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 61.214 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 64.4652 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 63.5 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0659234d-5d89-4413-99cf-a03d8b310ef0")
+		)
+		(pin "2"
+			(uuid "c020b7b5-9904-4817-8bd9-052454551dd6")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C208")
 					(unit 1)
 				)
 			)
@@ -7093,6 +11178,168 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 68.58 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a8e526c0-087a-4dfa-a30f-e10b91b4b028")
+		(property "Reference" "C209"
+			(at 66.294 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 66.294 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 69.5452 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 68.58 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7b6d5405-df8e-43b9-9e10-4cc348debf75")
+		)
+		(pin "2"
+			(uuid "02fe1ac0-f0d0-40a3-8dd0-61cb3b63d4b5")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C209")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 119.38 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ab47a604-2ef8-48a2-901c-2d754184a73d")
+		(property "Reference" "C219"
+			(at 117.094 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 117.094 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 120.3452 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 119.38 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b804aaca-10c7-4581-b2ad-28d45065e0c1")
+		)
+		(pin "2"
+			(uuid "980b7a3c-45f8-41d0-8174-cb36aace7c39")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C219")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 248.92 119.38 0)
 		(unit 1)
@@ -7267,6 +11514,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 68.58 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b526ce48-6084-43fe-aa9d-c5fbe55d399e")
+		(property "Reference" "C234"
+			(at 66.04 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 66.04 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 69.5452 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 68.58 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d8cd8111-71f3-497f-893a-19eb06cebbd4")
+		)
+		(pin "2"
+			(uuid "6074dc24-81c1-4a19-b507-64a65d67c614")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C234")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 71.12 119.38 0)
 		(unit 1)
@@ -7348,6 +11676,168 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D230")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 58.42 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b72fb117-14ee-49d1-886a-a856360a0774")
+		(property "Reference" "C232"
+			(at 55.88 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 55.88 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 59.3852 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 58.42 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ddec60b-37a7-45ec-a3ab-7b9e43f25bd3")
+		)
+		(pin "2"
+			(uuid "2481237b-e988-45f4-bb32-f3705f08c7e3")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C232")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 104.14 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bf739e01-8745-49bf-b060-2eed68941ed6")
+		(property "Reference" "C241"
+			(at 101.6 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 101.6 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 105.1052 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 104.14 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "97bd0aac-a644-41b0-841d-4ccd167daa6c")
+		)
+		(pin "2"
+			(uuid "70d2f003-d900-4215-abd0-f4dcf355cd05")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C241")
 					(unit 1)
 				)
 			)
@@ -7615,6 +12105,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 149.86 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ca96a5a5-29c8-4429-b3a9-38715f979e75")
+		(property "Reference" "C225"
+			(at 147.574 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 147.574 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 150.8252 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 149.86 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "12dca781-852c-4224-83b4-e7159946ce51")
+		)
+		(pin "2"
+			(uuid "67df86bf-856f-49e5-bbe9-ff1cfbbb8a5f")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C225")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 124.46 31.75 0)
 		(unit 1)
@@ -7696,6 +12267,168 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D205")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 58.42 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cd74ad5f-30b6-427a-a262-11cad835da87")
+		(property "Reference" "C207"
+			(at 56.134 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 56.134 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 59.3852 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 58.42 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "829c6cac-cae2-4a0c-8873-5cb537d1fb16")
+		)
+		(pin "2"
+			(uuid "e71a9387-adc1-405e-96f6-fc047eff4350")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C207")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 33.02 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ce6bc625-944a-46a7-a65e-46dc828e4b74")
+		(property "Reference" "C202"
+			(at 30.734 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 30.734 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 33.9852 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 33.02 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "26e78801-82b0-4025-ae2d-0bd78aec8806")
+		)
+		(pin "2"
+			(uuid "2c9a5596-805b-4c4b-bc27-b384aece80d0")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C202")
 					(unit 1)
 				)
 			)
@@ -7870,6 +12603,166 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D211")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 48.26 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d0a0b926-dfdc-4852-9835-144189d512d3")
+		(property "Reference" "C205"
+			(at 45.974 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 45.974 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 49.2252 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 48.26 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b3344e37-f809-4e80-8723-7123654754d4")
+		)
+		(pin "2"
+			(uuid "7e804177-20fb-434f-9aa0-b110f14b9317")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C205")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 22.86 170.18 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d35a0b63-e978-47b6-8877-bd0c9a0f9249")
+		(property "Reference" "#PWR0211"
+			(at 26.67 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 19.05 170.1799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 22.86 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4976869e-04ad-40f6-a99e-747f4d20626b")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)
@@ -8137,6 +13030,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 134.62 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "daaff705-aeb2-4d13-9416-f1e8e2f4778f")
+		(property "Reference" "C247"
+			(at 132.08 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 132.08 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 135.5852 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 134.62 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b7d15df9-b329-423c-9caa-608c09e19ed4")
+		)
+		(pin "2"
+			(uuid "04dd599e-36e1-4395-ac89-9cd33ff4ff92")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C247")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 71.12 87.63 0)
 		(unit 1)
@@ -8224,6 +13198,168 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 109.22 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "df20e8b8-623b-4f51-8f33-c07f77123739")
+		(property "Reference" "C242"
+			(at 106.68 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 106.68 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 110.1852 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 109.22 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "17ae7768-f7da-4bbb-bbe2-c5f06ace2811")
+		)
+		(pin "2"
+			(uuid "ba8abff8-9d97-4f8f-a75d-5d275ff41909")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C242")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 124.46 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e028c75d-158c-4a1e-9a3a-4beb6b11746e")
+		(property "Reference" "C220"
+			(at 122.174 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 122.174 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 125.4252 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 124.46 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "786d83b8-05b8-4e51-8861-03522b5ba717")
+		)
+		(pin "2"
+			(uuid "f05bf68f-438f-490d-8ff6-cf8acb845659")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C220")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 124.46 59.69 0)
 		(unit 1)
@@ -8305,6 +13441,166 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D217")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 22.86 181.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e3e76e8e-12c8-4bc8-bcae-15ac42ec8806")
+		(property "Reference" "#PWR0212"
+			(at 26.67 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 19.05 181.6099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 22.86 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9d381d34-d02b-4afd-8e28-a47b3fe2f0b0")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "#PWR0212")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 99.06 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e6f038d5-3709-426b-8e84-4c85f1ea0956")
+		(property "Reference" "C240"
+			(at 96.52 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 96.52 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 100.0252 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 99.06 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2d6a8d49-1f0a-419a-9615-2e345e5de58c")
+		)
+		(pin "2"
+			(uuid "99271cc6-126a-4751-bebc-66bde944dc60")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C240")
 					(unit 1)
 				)
 			)
@@ -8485,6 +13781,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 27.94 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e95b62ec-e60f-4e68-b797-2249301b2324")
+		(property "Reference" "C226"
+			(at 25.4 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 25.4 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 28.9052 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 27.94 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "503a4b13-cfbd-4f2d-88c6-2c3af5532b67")
+		)
+		(pin "2"
+			(uuid "e0632617-60c2-43c7-8fd1-37f4411dc06d")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C226")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B-2020")
 		(at 106.68 119.38 0)
 		(unit 1)
@@ -8572,87 +13949,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 30.48 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ee7b4732-fff9-4898-b215-df740143f0c6")
-		(property "Reference" "C202"
-			(at 22.606 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 22.606 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
-			(at 31.4452 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 30.48 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ff9c6c39-ce79-48ac-a43c-2ab67a577c56")
-		)
-		(pin "2"
-			(uuid "35ad044b-10b0-40d6-a9a7-89bf8ad5792d")
-		)
-		(instances
-			(project "mb-reader"
-				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
-					(reference "C202")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 26.67 95.25 270)
 		(unit 1)
@@ -8733,7 +14029,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 30.48 119.38 0)
+		(at 33.02 185.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8741,9 +14037,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "ef0a0f78-6489-41df-8488-e78534ba6d77")
-		(property "Reference" "C204"
-			(at 22.606 118.11 0)
+		(uuid "ef7b0660-53ae-4149-8b0d-6c515224f101")
+		(property "Reference" "C227"
+			(at 30.48 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8754,7 +14050,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 22.606 120.65 0)
+			(at 30.48 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8764,8 +14060,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
-			(at 31.4452 123.19 0)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 33.9852 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8776,7 +14072,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 119.38 0)
+			(at 33.02 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8787,7 +14083,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 30.48 119.38 0)
+			(at 33.02 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8798,15 +14094,258 @@
 			)
 		)
 		(pin "1"
-			(uuid "a81f4f90-823a-4f31-93d5-68c7bdd6e8e0")
+			(uuid "cdba6bca-e782-4279-9440-079e025aea5c")
 		)
 		(pin "2"
-			(uuid "c55cba2d-7d2c-4248-ab2a-67fc4aae6319")
+			(uuid "4e8c0bec-ce6e-4e0b-92f7-ce7f6dd4cae3")
 		)
 		(instances
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
-					(reference "C204")
+					(reference "C227")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 78.74 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f01e2003-41a8-4660-a440-fdadab66e04a")
+		(property "Reference" "C236"
+			(at 76.2 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 76.2 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 79.7052 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 78.74 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "97e177c8-b992-4b91-a57c-c044b6bcbc29")
+		)
+		(pin "2"
+			(uuid "6b212dc0-64cf-4442-a3ea-a8194d6ab454")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C236")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 144.78 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f3ba36e0-4e91-4ca1-9368-de3743f3366c")
+		(property "Reference" "C249"
+			(at 142.24 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 142.24 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 145.7452 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 144.78 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b8493bd3-2283-4be1-8618-8d3135a33af2")
+		)
+		(pin "2"
+			(uuid "d7a462da-8c18-463e-9d34-af7f0e677aed")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C249")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 99.06 173.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fa4c1fb7-e2c9-42cf-9229-ea2d1641942c")
+		(property "Reference" "C215"
+			(at 96.774 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 96.774 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:C_0603"
+			(at 100.0252 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 99.06 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bca327b4-5630-4b5a-9e94-edf88ea247dd")
+		)
+		(pin "2"
+			(uuid "1fbf2d17-f2f5-4b98-8f87-d49e3a36c322")
+		)
+		(instances
+			(project "mb-reader"
+				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
+					(reference "C215")
 					(unit 1)
 				)
 			)
