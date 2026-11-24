@@ -7762,7 +7762,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_CASE-A-3216-18(mm)"
+		(property "Footprint" "PCM_JLCPCB:C_0603"
 			(at 49.2252 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -7831,7 +7831,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 166.37 120.904 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9664,7 +9664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_CASE-A-3216-18(mm)"
+		(property "Footprint" "PCM_JLCPCB:C_0603"
 			(at 170.18 129.8448 0)
 			(hide yes)
 			(show_name no)
