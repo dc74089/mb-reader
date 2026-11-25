@@ -705,12 +705,6 @@
 		(uuid "038f79a0-df7d-48af-bd08-0a446410161f")
 	)
 	(junction
-		(at 53.34 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "04d8eb06-7cfe-48d6-a91b-f2a28c241993")
-	)
-	(junction
 		(at 83.82 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -849,12 +843,6 @@
 		(uuid "30063aa5-f8a2-450b-8c2c-07ac2c26b66e")
 	)
 	(junction
-		(at 38.1 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "32189138-03af-4a7e-a72b-f8ea574b145b")
-	)
-	(junction
 		(at 88.9 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -895,12 +883,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3cd0c9d6-eeb9-4b52-be14-672b9e1ac5ba")
-	)
-	(junction
-		(at 38.1 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ce95e74-59d2-4565-b5fb-c2484dd15fbf")
 	)
 	(junction
 		(at 134.62 170.18)
@@ -1701,12 +1683,6 @@
 		(uuid "e5cb4e24-a9d5-4167-ab20-8d4523c6bed9")
 	)
 	(junction
-		(at 53.34 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e7247b95-080a-4a20-b918-7a5ba0829af2")
-	)
-	(junction
 		(at 195.58 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2027,16 +2003,6 @@
 			(type default)
 		)
 		(uuid "1189a2f5-51a0-4328-8429-95783ad665e5")
-	)
-	(wire
-		(pts
-			(xy 26.67 127) (xy 53.34 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "122e26f8-101b-4aaa-a7df-2462c01bbf53")
 	)
 	(wire
 		(pts
@@ -2580,7 +2546,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 127) (xy 71.12 127)
+			(xy 26.67 127) (xy 71.12 127)
 		)
 		(stroke
 			(width 0)
@@ -2890,16 +2856,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 119.38) (xy 63.5 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67e9b250-bbb5-4290-b9fe-ba47248ba9c9")
-	)
-	(wire
-		(pts
 			(xy 38.1 181.61) (xy 43.18 181.61)
 		)
 		(stroke
@@ -2947,16 +2903,6 @@
 			(type default)
 		)
 		(uuid "71630a11-1ea0-4158-8a85-c06f2ecc1bdb")
-	)
-	(wire
-		(pts
-			(xy 26.67 111.76) (xy 53.34 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71f7e0f9-d819-4404-b664-077b3e3c9aad")
 	)
 	(wire
 		(pts
@@ -3310,23 +3256,13 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 170.18) (xy 38.1 170.18)
+			(xy 33.02 170.18) (xy 43.18 170.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8e6ff378-ddfb-4c3a-8738-cb485ff8663e")
-	)
-	(wire
-		(pts
-			(xy 38.1 170.18) (xy 43.18 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f23413d-12e8-4250-837d-a1b963a66f0c")
 	)
 	(wire
 		(pts
@@ -3380,7 +3316,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 177.8) (xy 38.1 177.8)
+			(xy 33.02 177.8) (xy 43.18 177.8)
 		)
 		(stroke
 			(width 0)
@@ -3740,16 +3676,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 177.8) (xy 43.18 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4c1f1dd-ba41-4393-b631-9c79c2b74739")
-	)
-	(wire
-		(pts
 			(xy 124.46 24.13) (xy 142.24 24.13)
 		)
 		(stroke
@@ -3870,7 +3796,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 111.76) (xy 71.12 111.76)
+			(xy 26.67 111.76) (xy 71.12 111.76)
 		)
 		(stroke
 			(width 0)
@@ -4160,7 +4086,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 119.38) (xy 45.72 119.38)
+			(xy 41.91 119.38) (xy 63.5 119.38)
 		)
 		(stroke
 			(width 0)
@@ -6911,93 +6837,6 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "C231")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B-2020")
-		(at 53.34 119.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3da7ffdf-7ffe-4336-803d-b10a04d1f934")
-		(property "Reference" "D229"
-			(at 53.34 104.902 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B-2020"
-			(at 53.34 107.442 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
-			(at 54.61 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf"
-			(at 55.88 128.905 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
-			(at 53.34 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cf33cc00-7322-4114-839f-f6008ff5e915")
-		)
-		(pin "2"
-			(uuid "9d0348f5-7a68-431f-b597-2444d52a57ac")
-		)
-		(pin "3"
-			(uuid "3ea86e7c-df6c-46be-a10a-959dc1c015d9")
-		)
-		(pin "4"
-			(uuid "cf89d4c9-ee90-4a5f-b6dd-891c88946290")
-		)
-		(instances
-			(project "mb-reader"
-				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
-					(reference "D229")
 					(unit 1)
 				)
 			)
@@ -10168,87 +10007,6 @@
 			(project "mb-reader"
 				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
 					(reference "D227")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 38.1 173.99 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9a2a6aff-08c7-4e69-8042-0e4c893721f0")
-		(property "Reference" "C201"
-			(at 35.814 162.306 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 35.814 164.846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
-			(at 39.0652 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.1 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 38.1 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "786ecb4e-256a-4656-84a8-953b2e602f7f")
-		)
-		(pin "2"
-			(uuid "f4397904-d573-4d2b-9daf-76a0e5a0fd0a")
-		)
-		(instances
-			(project "mb-reader"
-				(path "/9a28d067-0afb-4337-b82d-7d27f3b65cf7"
-					(reference "C201")
 					(unit 1)
 				)
 			)
