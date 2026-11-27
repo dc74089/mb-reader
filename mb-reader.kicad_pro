@@ -69,8 +69,31 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        [
+          "hole_clearance|89450000|135495000|cf0c6981-04b1-4144-8b57-11710bfd79c4|91331f1e-a70e-4d4f-a9b2-eafb7623f80e",
+          ""
+        ],
+        [
+          "hole_clearance|89450000|135495000|fc68e917-5e88-4a56-95fa-391b8c1f0eb8|91331f1e-a70e-4d4f-a9b2-eafb7623f80e",
+          ""
+        ],
+        [
+          "hole_clearance|95550000|135495000|506f4a57-c290-49ba-8d6a-bbde9e4bbdb6|e83763a6-ea6c-4e80-a53e-068a939c23a0",
+          ""
+        ],
+        [
+          "hole_clearance|95550000|135495000|9ccecb6c-6134-4ccf-a145-50516c727640|e83763a6-ea6c-4e80-a53e-068a939c23a0",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -206,7 +229,12 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.5,
+        0.8,
+        1.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -233,7 +261,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -263,7 +296,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|571500|279400|afd18d49-7238-4bac-8cd7-891fd729bd82|00000000-0000-0000-0000-000000000000|/7d4a61cb-ae94-4428-8eb5-2a7346d0e85e|/7d4a61cb-ae94-4428-8eb5-2a7346d0e85e|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|749300|279400|10dca84d-8299-45c7-821a-95dc47c6b89f|00000000-0000-0000-0000-000000000000|/7d4a61cb-ae94-4428-8eb5-2a7346d0e85e|/7d4a61cb-ae94-4428-8eb5-2a7346d0e85e|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -477,7 +519,7 @@
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "ignore",
+      "single_global_label": "warning",
       "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
@@ -839,6 +881,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -856,7 +906,7 @@
         "uuid": "9a28d067-0afb-4337-b82d-7d27f3b65cf7"
       }
     ],
-    "used_designators": "#PWR1-30,#PWR101-126,#PWR201-214,C1-7,C101-107,C201-257,D1-37,D101,D201-264,J1,J101-103,P1,R1-9,R101-109,SW1-2,SW101-102,U1-4,U101-105",
+    "used_designators": "#FLG101-102,#PWR1-30,#PWR101-126,#PWR201-214,C1-7,C101-107,C201-257,D1-37,D101,D201-264,F101-102,J1,J101-103,P1,R1-9,R101-109,SW1-2,SW101-102,U1-4,U101-105",
     "variants": []
   },
   "sheets": [
